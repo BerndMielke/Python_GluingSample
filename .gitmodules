@@ -1,0 +1,3 @@
+[submodule "LicelReader"]
+	path = LicelReader
+	url = https://github.com/BerndMielke/LicelReader.git
